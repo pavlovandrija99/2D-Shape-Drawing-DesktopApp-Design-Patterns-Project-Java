@@ -1,12 +1,12 @@
-## 2D-Shape-Drawing-App-Design-Patterns-Project-Java
+# 2D-Shape-Drawing-App-Design-Patterns-Project-Java
 
 * Java application for drawing 2D shapes. Java Swing used as a GUI toolkit.
 * App has the following specification/functionalities:
-  1. Drawing, modifying, as well as deleting shapes (Point, Line, Circle, Rectangle, Donut, Hexagon).
-  2. Selection & manipulation with multiple shapes.
-  3. Undo/Redo functionality for every action that is applied on GUI (JPanel within Java Swing).
-  4. Auto generating & showing log of all actions that are executed while working with application. 
-  5. 
+  - Drawing, modifying, as well as deleting shapes (Point, Line, Circle, Rectangle, Donut, Hexagon).
+  - Selection & manipulation with multiple shapes.
+  - Undo/Redo functionality for every action that is applied on GUI (JPanel within Java Swing).
+  - Auto generating & showing log of all actions that are executed while working with application. 
+  - 
   
 Korišćenjem *Java Swing* implementirati desktop aplikaciju za rad sa 2D grafikom. Aplikacija mora podržavati funkcionalnosti koje su rađene u projektnom zadatku na predmetu Objektno orijentisane informacione tehnologije.
 Izmene/Dodatne funkcionalnosti:
