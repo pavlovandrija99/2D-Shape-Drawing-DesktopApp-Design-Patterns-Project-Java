@@ -1,4 +1,7 @@
-## Opis zahteva za projekat iz predmeta Dizajnerski zadaci za 2019/2020
+## 2D-Shape-Drawing-App-Design-Patterns-Project-Java
+
+Project specification:
+
 Korišćenjem *Java Swing* implementirati desktop aplikaciju za rad sa 2D grafikom. Aplikacija mora podržavati funkcionalnosti koje su rađene u projektnom zadatku na predmetu Objektno orijentisane informacione tehnologije.
 Izmene/Dodatne funkcionalnosti:
 1. crtanje oblika različitim bojama (boja ivice i boja unutrašnjosti) za šta je potrebno koristiti *JColorChooser* klasu,
